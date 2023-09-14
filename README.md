@@ -16,7 +16,7 @@ Pada project ini, kami melakukan analisis data serta pemodelan machine learning 
 
 7. Conclusion and Recommendation : Pada bagian ini berisikan kesimpulan dan rekomendasi baik dari hasil analisis data maupun hasil pemodelan machine learning.
 
-Selain itu kami juga telah membuat story tableau dan dashboard tableau untuk menunjukkan visualisasi yang lebih baik yang dapat diakses melalui link berikut (story dapat dilihat dengan klik sheet disamping dashboard) :
+Selain itu, kami juga telah membuat story tableau dan dashboard tableau untuk menunjukkan visualisasi yang lebih baik yang dapat diakses melalui link berikut (story dapat dilihat dengan klik sheet disamping dashboard) :
 
 https://public.tableau.com/app/profile/linmar.theodorus.yohannes.sirait/viz/Final_Project_Tableau_Bank_Marketing_Campaign/DashboardKarakteristikNasabahBankPortugalUntukMelakukanTermDeposit?publish=yes
 
